@@ -35,12 +35,12 @@ Centralized Excel-based room & conference booking system with automated calendar
 *Professional booking form with date selection, office dropdown, location selection, check-in/out times, and automatic total hours calculation.*
 
 ### Booking Tracking Worksheet
-<img width="1361" height="717" alt="1" src="https://github.com/user-attachments/assets/4d54a50a-db70-4172-8521-0f6b64d2aa5c" />
+<img width="1357" height="716" alt="image" src="https://github.com/user-attachments/assets/d9428734-a59a-4462-9985-29e8963cc329" />
 
 *Complete booking list showing all reservations with office names, booking details, timing, total hours, and draft email functionality.*
 
 ### Monthly Availability Calendar
-<img width="1361" height="717" alt="1" src="https://github.com/user-attachments/assets/57f80386-183e-43f5-a16c-22b1eb541d88" />
+<img width="1357" height="716" alt="image" src="https://github.com/user-attachments/assets/18b56297-aaee-4125-ab6f-792418a8c111" />
 
 *Interactive calendar displaying full month with booked slots highlighted for quick availability reference.*
 
