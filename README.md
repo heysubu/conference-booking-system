@@ -211,11 +211,6 @@ Conflicts: None (checked automatically)
 3. Add recipients in TO/CC
 4. Send email
 
-## 📞 Contact
-
-- 🐙 [**GitHub**](https://github.com/heysubu)
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/subhamghadge/)
-
 ## 📄 License
 
 MIT License - Free to use and modify
